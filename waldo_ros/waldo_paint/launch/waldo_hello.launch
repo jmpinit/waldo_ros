@@ -1,0 +1,4 @@
+<launch>
+  <node name="waldo_hello" pkg="waldo_paint" type="hello.py" respawn="false" output="screen">
+  </node>
+</launch>
